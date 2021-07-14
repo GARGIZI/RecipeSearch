@@ -1,0 +1,12 @@
+@media(max-width: 1350px) {
+  .intro-inner {
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+
+    margin-top: -100px !important;
+  }
+  .intro-block {
+    text-align: center;
+  }
+}
